@@ -1,0 +1,6 @@
+Control_IP_rep1_downsampled_peaks.narrowPeak	1546
+Control_IP_rep2_downsampled_peaks.narrowPeak	1572
+Control_IP_rep3_downsampled_peaks.narrowPeak	1210
+Salt_IP_rep1_downsampled_peaks.narrowPeak	626
+Salt_IP_rep2_downsampled_peaks.narrowPeak	529
+Salt_IP_rep3_downsampled_peaks.narrowPeak	124
